@@ -1,0 +1,19 @@
+body{
+	background-color: #E4E4E4;
+}
+li{
+	padding-top: 10px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+
